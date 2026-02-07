@@ -3,10 +3,7 @@
 
 <img align="right" height="140" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geovani566&show_icons=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovani566&layout=compact&theme=dracula" height="150" />
-</div>
+
 
 ---
 
@@ -41,6 +38,3 @@
   </a>
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/WerikeRodriguesA/output/snake.svg" alt="Snake animation" />
