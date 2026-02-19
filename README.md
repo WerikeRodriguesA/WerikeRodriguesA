@@ -25,7 +25,7 @@
 ### 📫 Contact
 
 <div align="left">
-  <a href="https://www.instagram.com/geovani_tomaz_tj" target="_blank](https://www.instagram.com/wrtechservices/)">
+  <a href="https://www.instagram.com/geovani_tomaz_tj](https://www.instagram.com/werike.rodrigues/)" target="_blank](https://www.instagram.com/wrtechservices/)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 
