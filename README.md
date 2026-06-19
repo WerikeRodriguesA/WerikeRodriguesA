@@ -1,5 +1,5 @@
 
-<h2 align="left">Olá mundo, me chamo Werike, sou DEV FULLSTACK 🇧🇷</h2>
+<h2 align="left">Olá mundo, me chamo Werike, sou DEV BACKEND JAVA 🇧🇷</h2>
 
 <img align="right" height="140" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
